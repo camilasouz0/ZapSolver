@@ -1,0 +1,34 @@
+{
+  "name": "mathzap",
+  "version": "1.0.0",
+  "description": "Um bot para aprendizagem de matematica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilasouz0/Mathzap.git"
+  },
+  "keywords": [
+    "bot",
+    "whatsapp",
+    "math",
+    "symbolab",
+    "photomath"
+  ],
+  "author": "Camila Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilasouz0/Mathzap/issues"
+  },
+  "homepage": "https://github.com/camilasouz0/Mathzap#readme",
+  "dependencies": {
+    "@open-wa/wa-automate": "^3.7.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "forever": "^3.0.4",
+    "mathjs": "^3.20.2",
+    "mathsteps": "^0.2.0",
+    "sharp": "^0.27.2"
+  }
+}
