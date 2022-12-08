@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/camilasouz0/Mathzap#readme",
   "dependencies": {
-    "@open-wa/wa-automate": "^3.7.0",
+    "@open-wa/wa-automate": "^4.52.0",
     "fluent-ffmpeg": "^2.1.2",
     "forever": "^3.0.4",
     "mathjs": "^3.20.2",
